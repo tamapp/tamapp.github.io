@@ -434,7 +434,7 @@ body {
   padding-bottom: 200px;
 }
 .banner__section {
-  padding-bottom: 200px;
+  padding-bottom: 20px;
 }
 
 .banner__inner {
@@ -445,7 +445,7 @@ body {
 }
 .banner__title {
   font-weight: 700;
-  font-size: 50px;
+  font-size: 27px;
   line-height: 75px;
   margin-bottom: 30px;
 }
